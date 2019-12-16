@@ -1,5 +1,4 @@
-from flask import Flask
-from flask import render_template, request, Flask
+from flask import Flask, render_template, request
 from werkzeug import secure_filename
 import os
 
