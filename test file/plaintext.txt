@@ -1,0 +1,3 @@
+Here the display module was used to display local realtime sampling data.
+
+The eCos embedded operation system was selected as the OS of EWSM [15] [14], and
