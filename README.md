@@ -11,4 +11,4 @@ pip install -r requirements.txt
 python run.py
 ```
 
-Go to localhost:5000 then now you can upload a "English" file see result
+Go to localhost:5000 then now you can upload a "English" file to see result
